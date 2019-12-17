@@ -1,4 +1,4 @@
-# 2019/12/17 modified by WKIM using random_key(), random_electrum_seed() of \
+# 2019/12/18 modified by WKIM using random_key(), random_electrum_seed() of \
 # bitcoin-1.1.42\bitcoin\main.py
 
 
